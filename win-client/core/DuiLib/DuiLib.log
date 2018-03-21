@@ -1,1 +1,74 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本10.0.16299.0。请安装所需的版本的 Windows SDK 或者在项目属性页中或通过右键单击解决方案并选择“重定解决方案目标”来更改 SDK 版本。
+﻿  StdAfx.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\uimenu.h(73): warning C4251: “ReceiverImpl<BOOL,DuiLib::ContextMenuParam>::observers_”: class“std::map<int,ObserverImplBase<ReturnT,ParamT> *,std::less<int>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“ReceiverImpl<BOOL,DuiLib::ContextMenuParam>”的客户端使用
+          with
+          [
+              ReturnT=BOOL,
+              ParamT=DuiLib::ContextMenuParam,
+              _Kty=int,
+              _Ty=ObserverImplBase<BOOL,DuiLib::ContextMenuParam> *
+          ]
+  c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\observer_impl_base.hpp(181): note: 参见“std::map<int,ObserverImplBase<ReturnT,ParamT> *,std::less<int>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              ReturnT=BOOL,
+              ParamT=DuiLib::ContextMenuParam,
+              _Kty=int,
+              _Ty=ObserverImplBase<BOOL,DuiLib::ContextMenuParam> *
+          ]
+  UIWebBrowser.cpp
+  UITreeView.cpp
+  UIText.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\uitext.cpp(52): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UISlider.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\uislider.cpp(243): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIScrollBar.cpp
+  UIRichEdit.cpp
+  UIProgress.cpp
+  UIOption.cpp
+  UIList.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\uilist.cpp(1460): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\uilist.cpp(2010): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UILabel.cpp
+  UIFlash.cpp
+  UIEdit.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\uiedit.cpp(208): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIDateTime.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\uidatetime.cpp(231): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIComboBox.cpp
+  UICombo.cpp
+  UICheckBox.cpp
+  UIButton.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\control\uibutton.cpp(117): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIActiveX.cpp
+  UIVerticalLayout.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\layout\uiverticallayout.cpp(253): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UITileLayout.cpp
+  正在生成代码...
+  正在编译...
+  UITabLayout.cpp
+  UIHorizontalLayout.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\layout\uihorizontallayout.cpp(270): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIChildLayout.cpp
+  UIRender.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uirender.cpp(1123): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  UIMarkup.cpp
+  UIManager.cpp
+  UIDlgBuilder.cpp
+  UIControl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uicontrol.cpp(676): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIContainer.cpp
+  UIBase.cpp
+  Utils.cpp
+  UIDelegate.cpp
+  WinImplBase.cpp
+  UIShadow.cpp
+  DialogManager.cpp
+  UIlib.cpp
+  UIMenu.cpp
+  UIGifAnim.cpp
+  正在生成代码...
+  stb_image.c
+  XUnzip.cpp
+    正在创建库 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\DuiLib.lib 和对象 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\DuiLib.exp
+  DuiLib.vcxproj -> C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\bin\teamtalk\Debug\DuiLib.dll

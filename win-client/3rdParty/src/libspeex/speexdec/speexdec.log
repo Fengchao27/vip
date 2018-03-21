@@ -1,1 +1,15 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本10.0.16299.0。请安装所需的版本的 Windows SDK 或者在项目属性页中或通过右键单击解决方案并选择“重定解决方案目标”来更改 SDK 版本。
+﻿  wave_out.c
+  wav_io.c
+  speexdec.c
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libspeex\src\speexdec.c(339): warning C4244: “=”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libspeex\src\speexdec.c(505): warning C4013: “_endthread”未定义；假设外部返回 int
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libspeex\src\speexdec.c(530): warning C4013: “startPlayAudio”未定义；假设外部返回 int
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libspeex\src\speexdec.c(536): warning C4013: “MessagePump”未定义；假设外部返回 int
+  skeleton.c
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libspeex\src\skeleton.c(15): warning C4142: "write_ogg_page_to_file": 类型的良性重定义
+  c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libspeex\src\skeleton.h(56): note: 参见“write_ogg_page_to_file”的声明
+  getopt1.c
+  getopt.c
+  正在生成代码...
+getopt.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  speexdec.vcxproj -> C:\Users\sfengchao\Source\Repos\vip\win-client\solution\\..\bin\teamtalk\Debug\speexdec.exe

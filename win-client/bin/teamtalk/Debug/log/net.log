@@ -1,0 +1,55 @@
+2018-03-18 17:37:23 imcore.cpp(imcore::IMLibCoreRunEvent,252) [net] -> ===============================================================================
+2018-03-18 17:37:23 imcore.cpp(imcore::event_run,19) [net] -> event_run
+2018-03-18 17:37:41 imcore.cpp(imcore::IMLibCoreShutdown,339) [net] -> shutdown key:0
+2018-03-21 21:20:00 imcore.cpp(imcore::IMLibCoreRunEvent,252) [net] -> ===============================================================================
+2018-03-21 21:20:01 imcore.cpp(imcore::event_run,19) [net] -> event_run
+2018-03-21 21:20:30 basesocket.cpp(CBaseSocket::Connect,90) [net] -> CBaseSocket::Connect, server_ip=192.168.3.177, port=8000
+2018-03-21 21:20:30 imconn.cpp(CImConn::onConnect,126) [net] -> connect done hanle:1488
+2018-03-21 21:20:30 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x1,commandId:0x104
+2018-03-21 21:20:30 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x1,commandId:0x104
+2018-03-21 21:20:30 imconn.cpp(CImConn::OnClose,133) [net] -> CImConn OnClose,handle:1488
+2018-03-21 21:20:30 imcore.cpp(imcore::IMLibCoreClose,329) [net] -> close key:1488
+2018-03-21 21:20:30 imcore.cpp(imcore::IMLibCoreShutdown,339) [net] -> shutdown key:1488
+2018-03-21 21:20:30 imconn.cpp(CImConn::Shutdown,201) [net] -> shutdown, socket=1488
+2018-03-21 21:20:30 imconn.cpp(CImConn::Close,196) [net] -> close, socket=1488
+2018-03-21 21:20:30 imconn.cpp(CImConn::~CImConn,60) [net] -> CImConn::~CImConn, handle=1488
+2018-03-21 21:20:36 basesocket.cpp(CBaseSocket::Connect,90) [net] -> CBaseSocket::Connect, server_ip=192.168.3.177, port=8000
+2018-03-21 21:20:36 imconn.cpp(CImConn::onConnect,126) [net] -> connect done hanle:1512
+2018-03-21 21:20:36 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x1,commandId:0x104
+2018-03-21 21:20:36 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x1,commandId:0x104
+2018-03-21 21:20:36 imconn.cpp(CImConn::OnClose,133) [net] -> CImConn OnClose,handle:1512
+2018-03-21 21:20:36 imcore.cpp(imcore::IMLibCoreClose,329) [net] -> close key:1512
+2018-03-21 21:20:36 imcore.cpp(imcore::IMLibCoreShutdown,339) [net] -> shutdown key:1512
+2018-03-21 21:20:36 imconn.cpp(CImConn::Shutdown,201) [net] -> shutdown, socket=1512
+2018-03-21 21:20:36 imconn.cpp(CImConn::Close,196) [net] -> close, socket=1512
+2018-03-21 21:20:36 imconn.cpp(CImConn::~CImConn,60) [net] -> CImConn::~CImConn, handle=1512
+2018-03-21 21:20:45 basesocket.cpp(CBaseSocket::Connect,90) [net] -> CBaseSocket::Connect, server_ip=192.168.3.177, port=8000
+2018-03-21 21:20:45 imconn.cpp(CImConn::onConnect,126) [net] -> connect done hanle:1560
+2018-03-21 21:20:45 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x1,commandId:0x104
+2018-03-21 21:20:45 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x1,commandId:0x104
+2018-03-21 21:20:45 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x2,commandId:0x203
+2018-03-21 21:20:45 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x2,commandId:0x203
+2018-03-21 21:20:45 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x2,commandId:0x211
+2018-03-21 21:20:45 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x2,commandId:0x211
+2018-03-21 21:20:45 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x4,commandId:0x402
+2018-03-21 21:20:45 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x4,commandId:0x402
+2018-03-21 21:20:45 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x2,commandId:0x209
+2018-03-21 21:20:45 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x2,commandId:0x209
+2018-03-21 21:20:45 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x2,commandId:0x20b
+2018-03-21 21:20:45 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x2,commandId:0x20b
+2018-03-21 21:20:45 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x2,commandId:0x20b
+2018-03-21 21:20:45 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x2,commandId:0x20b
+2018-03-21 21:20:45 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x2,commandId:0x202
+2018-03-21 21:20:45 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x2,commandId:0x202
+2018-03-21 21:20:46 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x3,commandId:0x308
+2018-03-21 21:20:46 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x3,commandId:0x308
+2018-03-21 21:20:46 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x5,commandId:0x50a
+2018-03-21 21:20:46 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onReceiveData,116) [net] -> receiveData message moduleId:0x5,commandId:0x50a
+2018-03-21 21:20:50 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x7,commandId:0x701
+2018-03-21 21:20:55 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x7,commandId:0x701
+2018-03-21 21:21:00 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x7,commandId:0x701
+2018-03-21 21:21:05 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x7,commandId:0x701
+2018-03-21 21:21:10 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x7,commandId:0x701
+2018-03-21 21:21:15 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x7,commandId:0x701
+2018-03-21 21:21:20 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x7,commandId:0x701
+2018-03-21 21:21:25 imconn.cpp(CImConn::OnRead,162) [net] -> OnRead moduleId:0x7,commandId:0x701

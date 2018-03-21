@@ -14,7 +14,7 @@
     <ProjectGuid>{0C1A4D61-C72C-4BBC-8468-34CD700D860C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>httpclient</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

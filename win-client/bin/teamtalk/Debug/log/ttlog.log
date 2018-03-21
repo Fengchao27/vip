@@ -1,0 +1,78 @@
+2018-03-18 17:37:23 teamtalk.cpp(CteamtalkApp::InitInstance,42) [app] -> ===================================VersionNO:1======BulidTime£ºMar 18 2018--17:37:03==========================
+2018-03-18 17:37:23 teamtalk.cpp(CteamtalkApp::InitInstance,68) [app] -> start imcore lib done
+2018-03-18 17:37:23 teamtalk.cpp(CteamtalkApp::InitInstance,76) [app] -> start ui event done
+2018-03-18 17:37:27 logindialog.cpp(LoginDialog::_DoLogin,150) [app] -> User Clicked LoginBtn
+2018-03-18 17:37:28 dologinserverhttpoperation.cpp(DoLoginServerHttpOperation::processOpertion,24) [app] -> loginAddr = http://120.55.94.78:8080/msg_server
+2018-03-18 17:37:31 dologinserverhttpoperation.cpp(DoLoginServerHttpOperation::processOpertion,38) [error] -> failed http://120.55.94.78:8080/msg_server
+2018-03-18 17:37:31 logindialog.cpp(LoginDialog::OnHttpCallbackOperation,221) [error] -> get MsgServer config faild,login server addres:http://120.55.94.78:8080/msg_server:0
+2018-03-18 17:37:35 serverconfigdialog.cpp(ServerConfigDialog::_InitlizeSetting,89) [error] -> _InitlizeSetting,¶ÁÈ¡ÉèÖÃÊ§°Ü
+2018-03-18 17:37:41 teamtalk.cpp(CteamtalkApp::InitInstance,100) [error] -> login canceled
+2018-03-18 17:37:41 teamtalk.cpp(CteamtalkApp::ExitInstance,141) [app] -> Exit Instance
+2018-03-18 17:37:41 teamtalk.cpp(CteamtalkApp::ExitInstance,145) [app] -> close http pool done
+2018-03-18 17:37:41 teamtalk.cpp(CteamtalkApp::ExitInstance,148) [app] -> close tcpclient socket done
+2018-03-18 17:37:41 teamtalk.cpp(CteamtalkApp::ExitInstance,151) [app] -> stop imcore lib done
+2018-03-18 17:37:41 teamtalk.cpp(CteamtalkApp::ExitInstance,154) [app] -> stop ui event done
+2018-03-18 17:37:41 teamtalk.cpp(CteamtalkApp::ExitInstance,157) [app] -> MainDialog Destory done
+2018-03-18 17:37:41 teamtalk.cpp(CteamtalkApp::ExitInstance,164) [app] -> Exit OK
+2018-03-21 21:20:00 teamtalk.cpp(CteamtalkApp::InitInstance,42) [app] -> ===================================VersionNO:1======BulidTime£ºMar 18 2018--17:37:03==========================
+2018-03-21 21:20:00 teamtalk.cpp(CteamtalkApp::InitInstance,68) [app] -> start imcore lib done
+2018-03-21 21:20:01 teamtalk.cpp(CteamtalkApp::InitInstance,76) [app] -> start ui event done
+2018-03-21 21:20:10 serverconfigdialog.cpp(ServerConfigDialog::_InitlizeSetting,89) [error] -> _InitlizeSetting,¶ÁÈ¡ÉèÖÃÊ§°Ü
+2018-03-21 21:20:30 logindialog.cpp(LoginDialog::_DoLogin,150) [app] -> User Clicked LoginBtn
+2018-03-21 21:20:30 dologinserverhttpoperation.cpp(DoLoginServerHttpOperation::processOpertion,24) [app] -> loginAddr = http://192.168.3.177:8080/msg_server
+2018-03-21 21:20:30 dologinserverhttpoperation.cpp(DoLoginServerHttpOperation::processOpertion,73) [app] -> get msgSvr IP succeed!
+2018-03-21 21:20:30 loginoperation.cpp(LoginOperation::processOpertion,37) [app] -> login start,uname:1,status:1
+2018-03-21 21:20:30 loginoperation.cpp(LoginOperation::processOpertion,46) [app] -> MsgServeIp:192.168.3.177,Port:8000
+2018-03-21 21:20:30 loginoperation.cpp(LoginOperation::processOpertion,54) [error] -> add:192.168.3.177:8000,uname:1,login for msg server failed
+2018-03-21 21:20:30 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onClose,93) [error] -> on socket onClose,handle:1488
+2018-03-21 21:20:30 loginoperation.cpp(LoginOperation::processOpertion,61) [error] -> error code :6,error info:ÓÃ»§Ãû/ÃÜÂë´íÎó
+2018-03-21 21:20:30 basesocket.cpp(CBaseSocket::Close,160) [app] -> close base socket
+2018-03-21 21:20:36 logindialog.cpp(LoginDialog::_DoLogin,150) [app] -> User Clicked LoginBtn
+2018-03-21 21:20:36 dologinserverhttpoperation.cpp(DoLoginServerHttpOperation::processOpertion,24) [app] -> loginAddr = http://192.168.3.177:8080/msg_server
+2018-03-21 21:20:36 dologinserverhttpoperation.cpp(DoLoginServerHttpOperation::processOpertion,73) [app] -> get msgSvr IP succeed!
+2018-03-21 21:20:36 loginoperation.cpp(LoginOperation::processOpertion,37) [app] -> login start,uname:1,status:1
+2018-03-21 21:20:36 loginoperation.cpp(LoginOperation::processOpertion,46) [app] -> MsgServeIp:192.168.3.177,Port:8000
+2018-03-21 21:20:36 loginoperation.cpp(LoginOperation::processOpertion,54) [error] -> add:192.168.3.177:8000,uname:1,login for msg server failed
+2018-03-21 21:20:36 tcpclientmodule_impl.cpp(TcpClientModule_Impl::onClose,93) [error] -> on socket onClose,handle:1512
+2018-03-21 21:20:36 loginoperation.cpp(LoginOperation::processOpertion,61) [error] -> error code :6,error info:ÓÃ»§Ãû/ÃÜÂë´íÎó
+2018-03-21 21:20:36 basesocket.cpp(CBaseSocket::Close,160) [app] -> close base socket
+2018-03-21 21:20:45 logindialog.cpp(LoginDialog::_DoLogin,150) [app] -> User Clicked LoginBtn
+2018-03-21 21:20:45 dologinserverhttpoperation.cpp(DoLoginServerHttpOperation::processOpertion,24) [app] -> loginAddr = http://192.168.3.177:8080/msg_server
+2018-03-21 21:20:45 dologinserverhttpoperation.cpp(DoLoginServerHttpOperation::processOpertion,73) [app] -> get msgSvr IP succeed!
+2018-03-21 21:20:45 loginoperation.cpp(LoginOperation::processOpertion,37) [app] -> login start,uname:2,status:1
+2018-03-21 21:20:45 loginoperation.cpp(LoginOperation::processOpertion,46) [app] -> MsgServeIp:192.168.3.177,Port:8000
+2018-03-21 21:20:45 databasemodule_impl.cpp(DatabaseModule_Impl::_openDB,79) [app] -> open database done
+2018-03-21 21:20:45 loginoperation.cpp(LoginOperation::processOpertion,104) [app] -> login succeed! Name = 2 Nickname = 2 sId = 2 status = 1
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_userStatusNotify,307) [debug] -> IMUserStatNotify,sid=2,status=1
+2018-03-21 21:20:45 loginmodule_impl.cpp(LoginModule_Impl::notifyLoginDone::<lambda_0ff7c34f98aa0741c7f8ac44bc831230>::operator (),78) [app] -> IMDepartmentReq,latest update time :0
+2018-03-21 21:20:45 teamtalk.cpp(CteamtalkApp::InitInstance,103) [app] -> login success
+2018-03-21 21:20:45 loginmodule_impl.cpp(LoginModule_Impl::notifyLoginDone::<lambda_0ff7c34f98aa0741c7f8ac44bc831230>::operator (),88) [app] -> IMAllUserReq,latest update time :0
+2018-03-21 21:20:45 loginmodule_impl.cpp(LoginModule_Impl::notifyLoginDone::<lambda_0ff7c34f98aa0741c7f8ac44bc831230>::operator (),96) [app] -> IMNormalGroupListReq
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_departmentResponse,216) [app] -> IMDepartmentRsp,latest_update_time = 1521597316,Local_update_time = 0
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_departmentResponse,219) [app] -> IMDepartmentRsp,user_list_size = 1
+2018-03-21 21:20:45 grouplistmodule_impl.cpp(GroupListModule_Impl::_groupNormalListResponse,245) [app] -> IMNormalGroupListRsp,size = 0
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_allUserlistResponse,97) [app] -> IMAllUserRsp,latest_update_time = 1521597974,Local_update_time = 0
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_allUserlistResponse,100) [app] -> IMAllUserRsp,user_list_size = 1
+2018-03-21 21:20:45 teamtalk.cpp(CteamtalkApp::InitInstance,111) [app] -> Create MianDialog done
+2018-03-21 21:20:45 uiimlist.cpp(UIIMList::MKOForUserListModuleCallback,613) [debug] -> Not in this list
+2018-03-21 21:20:45 uiimlist.cpp(UIIMList::MKOForUserListModuleCallback,613) [debug] -> Not in this list
+2018-03-21 21:20:45 uiimlist.cpp(UIIMList::MKOForUserListModuleCallback,613) [debug] -> Not in this list
+2018-03-21 21:20:45 uiimlist.cpp(UIIMList::MKOForUserListModuleCallback,613) [debug] -> Not in this list
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::startup,781) [app] -> local db user count = 1
+2018-03-21 21:20:45 mainlistlayout.cpp(MainListLayout::DoInit::<lambda_deafe0fc4e02266e439c5a045f8e7c76>::operator (),91) [app] -> userlist module local db datas start done
+2018-03-21 21:20:45 mainlistlayout.cpp(MainListLayout::DoInit::<lambda_deafe0fc4e02266e439c5a045f8e7c76>::operator (),96) [app] -> grouplist module local db datas start done
+2018-03-21 21:20:45 mainlistlayout.cpp(MainListLayout::DoInit::<lambda_deafe0fc4e02266e439c5a045f8e7c76>::operator (),101) [app] -> session module local db datas start done
+2018-03-21 21:20:45 mainlistlayout.cpp(MainListLayout::DoInit::<lambda_deafe0fc4e02266e439c5a045f8e7c76>::operator (),104) [app] -> IMRecentContactSessionReq , local update time = 0
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_usersLineStatusResponse,148) [app] -> IMUsersStatRsp,Size = 1
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_usersLineStatusResponse,148) [app] -> IMUsersStatRsp,Size = 1
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_recentlistResponse,257) [app] -> IMRecentContactSessionRsp,size=1
+2018-03-21 21:20:45 userlistmodule_impl.cpp(UserListModule_Impl::_recentlistResponse,276) [debug] -> sessionID = 1,updatedTime = 1521597735
+2018-03-21 21:20:46 mainlistlayout.cpp(MainListLayout::_AddRecentSessionListToUI,319) [app] -> Can't get the UserInfoEntity:1
+2018-03-21 21:20:46 miscmodule_impl.cpp(MiscModule_Impl::doProcess2,262) [debug] -> DecryptMsg,pData content:dscnnibYAHCkpQenMd87GQ==
+2018-03-21 21:20:46 mainlistlayout_event.cpp(MainListLayout::MKOForUserlistModuleCallback::<lambda_8f24e43e372aa91a9b5bb9bbc875641d>::operator (),62) [app] -> IMUnreadMsgCntReq
+2018-03-21 21:20:46 mainlistlayout_event.cpp(MainListLayout::MKOForUserlistModuleCallback::<lambda_f7616593c1ddbfb0624c9dd9ebdaab78>::operator (),74) [app] -> IMFileHasOfflineReq
+2018-03-21 21:20:46 sessionmodule_impl.cpp(SessionModule_Impl::_sessionMsgUnreadCntResponse,432) [app] -> IMUnreadMsgCntRsp,count = 0
+2018-03-21 21:20:46 filetransfermodule_impl.cpp(FileTransferModule_Impl::_hasOfflineRes,319) [error] -> imFileHasOfflineRsp,ip_addr_list_size == 0
+2018-03-21 21:20:48 downloadavatarhttpoperation.cpp(DownloadAvatarHttpOperation::processOpertion,60) [error] -> DownloadImgHttpOperation failed http://192.168.3.177:8700/
+2018-03-21 21:20:51 downloadavatarhttpoperation.cpp(DownloadAvatarHttpOperation::processOpertion,60) [error] -> DownloadImgHttpOperation failed http://192.168.3.177:8700/
+2018-03-21 21:20:54 downloadavatarhttpoperation.cpp(DownloadAvatarHttpOperation::processOpertion,60) [error] -> DownloadImgHttpOperation failed http://192.168.3.177:8700/

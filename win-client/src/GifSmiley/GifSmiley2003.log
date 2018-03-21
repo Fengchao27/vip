@@ -1,1 +1,66 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本10.0.16299.0。请安装所需的版本的 Windows SDK 或者在项目属性页中或通过右键单击解决方案并选择“重定解决方案目标”来更改 SDK 版本。
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  GifSmiley.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  GifSmileyCtrl.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  mAniImage.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  正在生成代码...
+GifSmiley.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+    正在创建库 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\GifSmiley.lib 和对象 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\GifSmiley.exp
+  Microsoft (R) 32b/64b MIDL Compiler Version 8.00.0603 
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  Processing .\vc140.idl
+  vc140.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\prsht.idl
+  prsht.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\MsHTML.idl
+  MsHTML.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.idl
+  ocidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleidl.idl
+  oleidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\servprov.idl
+  servprov.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\urlmon.idl
+  urlmon.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\msxml.idl
+  msxml.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\dimm.idl
+  dimm.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\shtypes.idl
+  shtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\dispex.idl
+  dispex.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\dxgitype.idl
+  dxgitype.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\dxgiformat.idl
+  dxgiformat.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\MsHtmHst.idl
+  MsHtmHst.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\docobj.idl
+  docobj.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ExDisp.idl
+  ExDisp.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ObjSafe.idl
+  ObjSafe.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.acf
+  oaidl.acf
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.acf
+  ocidl.acf
+  GifSmiley2003.vcxproj -> C:\Users\sfengchao\Source\Repos\vip\win-client\solution\\..\bin\teamtalk\Debug\GifSmiley.dll

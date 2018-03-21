@@ -1,1 +1,26 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本10.0.16299.0。请安装所需的版本的 Windows SDK 或者在项目属性页中或通过右键单击解决方案并选择“重定解决方案目标”来更改 SDK 版本。
+﻿  dllmain.cpp
+  yaolog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\yaolog\yaolog.cpp(1041): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\yaolog\yaolog.cpp(1059): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  BaseSocket.cpp
+  EventDispatch.cpp
+  imconn.cpp
+  ImCore.cpp
+  Lock.cpp
+  netlib.cpp
+  network.cpp
+  Operation.cpp
+c:\users\sfengchao\source\repos\vip\win-client\include\network\exception.h(18): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 struct“imcore::Exception”的基
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\vcruntime_exception.h(43): note: 参见“std::exception”的声明
+  c:\users\sfengchao\source\repos\vip\win-client\include\network\exception.h(17): note: 参见“imcore::Exception”的声明
+  OperationManager.cpp
+c:\users\sfengchao\source\repos\vip\win-client\include\network\operation.h(58): warning C4251: “imcore::Operation::m_name”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“imcore::Operation”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\xstring(4273): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+  TcpSocketsManager.cpp
+  TTPBHeader.cpp
+  util.cpp
+  UtilPdu.cpp
+  正在生成代码...
+  stdafx.cpp
+    正在创建库 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\network.lib 和对象 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\network.exp
+  network.vcxproj -> C:\Users\sfengchao\Source\Repos\vip\win-client\solution\\..\bin\teamtalk\Debug\network.dll

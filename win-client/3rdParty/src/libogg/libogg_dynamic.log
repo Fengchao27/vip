@@ -1,1 +1,10 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本10.0.16299.0。请安装所需的版本的 Windows SDK 或者在项目属性页中或通过右键单击解决方案并选择“重定解决方案目标”来更改 SDK 版本。
+﻿  framing.c
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libogg\src\framing.c(715): warning C4456: “page”的声明隐藏了上一个本地声明
+  c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libogg\src\framing.c(660): note: 参见“page”的声明
+c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libogg\src\framing.c(716): warning C4456: “bytes”的声明隐藏了上一个本地声明
+  c:\users\sfengchao\source\repos\vip\win-client\3rdparty\src\libogg\src\framing.c(662): note: 参见“bytes”的声明
+  bitwise.c
+  正在生成代码...
+bitwise.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\libogg.lib 和对象 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\libogg.exp
+  libogg_dynamic.vcxproj -> C:\Users\sfengchao\Source\Repos\vip\win-client\solution\\..\bin\teamtalk\Debug\libogg.dll

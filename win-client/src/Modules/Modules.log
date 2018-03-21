@@ -1,1 +1,236 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本10.0.16299.0。请安装所需的版本的 Windows SDK 或者在项目属性页中或通过右键单击解决方案并选择“重定解决方案目标”来更改 SDK 版本。
+﻿  stdafx.cpp
+  ximabmp.cpp
+  ximaenc.cpp
+  ximaexif.cpp
+  ximage.cpp
+  ximagif.cpp
+  ximainfo.cpp
+  ximajpg.cpp
+  ximalpha.cpp
+  ximalyr.cpp
+  ximapal.cpp
+  ximapng.cpp
+  ximatran.cpp
+  ximawbmp.cpp
+  ximawnd.cpp
+  xmemfile.cpp
+  IM.BaseDefine.pb.cc
+  IM.Buddy.pb.cc
+  IM.File.pb.cc
+  IM.Group.pb.cc
+  IM.Login.pb.cc
+  正在生成代码...
+  正在编译...
+  IM.Message.pb.cc
+  IM.Other.pb.cc
+  IM.SwitchService.pb.cc
+  正在生成代码...
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  正在生成代码...
+  正在编译...
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  正在生成代码...
+  正在编译...
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  png.c
+  pngerror.c
+  pnggccrd.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngvcrd.c
+  pngwio.c
+  正在生成代码...
+  正在编译...
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzio.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  正在生成代码...
+  UIEventManager.cpp
+  ModuleBase.cpp
+  ModuleObserver.cpp
+  ModuleSubject.cpp
+  DatabaseModule_DepartmentInfoDB_Impl.cpp
+  DatabaseModule_FileTransferHistory_Impl.cpp
+  DatabaseModule_GroupInfoDB_Impl.cpp
+  DatabaseModule_ImageDB_Impl.cpp
+  DatabaseModule_Impl.cpp
+  DatabaseModule_MessageDB_Impl.cpp
+  DatabaseModule_RecentSessionDB_Impl.cpp
+  DatabaseModule_UserInfoDB_Impl.cpp
+  EmotionButton.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  EmotionDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  EmotionModule_Impl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  EmoCfgParseTool.cpp
+  FileTransferDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  FileTransferModule_Impl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  FileTransferSocket.cpp
+  FileTransferUIThread.cpp
+  正在生成代码...
+  正在编译...
+  TransferFile.cpp
+  TransferManager.cpp
+  GroupListModule_Impl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  ChangeDiscussionGrpMemberDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  CreateDiscussionGrpDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  HttpPoolModule_Impl.cpp
+  DoLoginServerHttpOperation.cpp
+  LoginDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  LoginModule_Impl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  LoginOperation.cpp
+  ReloginManager.cpp
+  MessageEntity.cpp
+  MessageModule_Impl.cpp
+  ReceiveMsgManage.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SendMsgManage.cpp
+  MiscModule_Impl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  Modules.cpp
+  P2PCmdModule_Impl.cpp
+  ScreenCaptureModule_Impl.cpp
+  AutoSelectMode.cpp
+  正在生成代码...
+  正在编译...
+  CaptureMode.cpp
+  ManalEditMode.cpp
+  ManalSelectMode.cpp
+  ScreenCapture.cpp
+  ScreenSnapshot.cpp
+  BkgroundUI.cpp
+  DlgBase.cpp
+  EditToolbar.cpp
+  UIMgr.cpp
+  ISessionModule.cpp
+  DownloadAvatarHttpOperation.cpp
+  SendImgHttpOperation.cpp
+  SyncTimerTimer.cpp
+  SessionManager.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SessionModule_Impl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MainListLayout.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MainListLayout_Event.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SearchLayout.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SessionDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SessionLayout.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  正在生成代码...
+  正在编译...
+  SessionLayout_Event.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SessionLayout_Function.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIEAUserTreelist.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uieausertreelist.cpp(102): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uieausertreelist.cpp(133): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uieausertreelist.cpp(154): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  UIGroupsTreelist.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uigroupstreelist.cpp(118): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uigroupstreelist.cpp(150): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uigroupstreelist.cpp(181): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  UIIMEdit.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIIMList.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uiimlist.cpp(277): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uiimlist.cpp(308): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uiimlist.cpp(327): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  UIIMListCommonDefine.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIRecentSessionList.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uirecentsessionlist.cpp(109): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\session\ui\uirecentsessionlist.cpp(140): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  UserDetailInfoDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  ServerConfigDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SysConfigDialog.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SysConfigModule_Impl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\sysconfig\sysconfigmodule_impl.h(16): warning C4091: “”: 没有声明变量时忽略“std::function<void (std::shared_ptr<void>)>”的左侧
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  TcpClientModule_Impl.cpp
+  IUserListModule.cpp
+  UserListModule_Impl.cpp
+c:\users\sfengchao\source\repos\vip\win-client\src\modules\userlist\userlistmodule_impl.cpp(818): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“libprotobuf-lite.lib”

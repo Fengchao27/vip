@@ -1,1 +1,8 @@
-﻿
+﻿  stdafx.cpp
+c:\users\sfengchao\source\repos\vip\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  teamtalk.cpp
+  MainDialog.cpp
+  MainDialog_Event.cpp
+  MainDialog_TrayIcon.cpp
+  正在生成代码...
+  teamtalk.vcxproj -> C:\Users\sfengchao\Source\Repos\vip\win-client\solution\\..\bin\teamtalk\Debug\teamtalk.exe

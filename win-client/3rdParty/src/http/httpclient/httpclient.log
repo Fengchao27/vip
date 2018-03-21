@@ -1,1 +1,18 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本10.0.16299.0。请安装所需的版本的 Windows SDK 或者在项目属性页中或通过右键单击解决方案并选择“重定解决方案目标”来更改 SDK 版本。
+﻿  base64.cpp
+  dll_init.cpp
+  file_reader.cpp
+  file_writer.cpp
+  http_client.cpp
+  http_header_parser.cpp
+  http_post_file.cpp
+  http_request.cpp
+  http_response.cpp
+  http_response_receiver.cpp
+  proxy_socket .cpp
+  socket_helper.cpp
+  streaming_socket.cpp
+  url_parser.cpp
+  util.cpp
+  正在生成代码...
+    正在创建库 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\httpclient.lib 和对象 C:\Users\sfengchao\Source\Repos\vip\win-client\solution\..\lib\Debug\httpclient.exp
+  httpclient.vcxproj -> C:\Users\sfengchao\Source\Repos\vip\win-client\solution\\..\bin\teamtalk\Debug\httpclient.dll
